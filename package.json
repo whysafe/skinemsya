@@ -1,0 +1,12 @@
+{
+  "name": "skinemsya",
+  "version": "1.0.0",
+  "description": "Делим общие расходы: кто кому сколько должен",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test tests/",
+    "start": "python -m http.server 8000"
+  }
+}
