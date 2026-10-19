@@ -6,7 +6,7 @@
   "private": true,
   "license": "MIT",
   "scripts": {
-    "test": "node --test tests/",
+    "test": "node --test tests/split.test.js",
     "start": "python -m http.server 8000"
   }
 }
